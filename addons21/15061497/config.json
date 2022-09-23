@@ -1,0 +1,14 @@
+{
+    "auto": {
+        "enabled": true,
+        "uiEditFieldCheckbox": true
+    },
+    "code": {
+        "colorScheme": "monokai",
+        "lineNums": true
+    },
+    "manual": {
+        "shortcut": "Ctrl+M",
+        "uiToggleFieldMarkdownButton": true
+    }
+}

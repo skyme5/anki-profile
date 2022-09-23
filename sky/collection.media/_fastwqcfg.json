@@ -1,0 +1,96 @@
+{
+    "cloze_str": "{{c1::%s}}",
+    "dicts": {
+        "Baicizhan": {
+            "enabled": true
+        },
+        "BaiduFy": {
+            "enabled": true
+        },
+        "Baidu_Chinese": {
+            "enabled": true
+        },
+        "Bing": {
+            "enabled": true
+        },
+        "BingXtk": {
+            "enabled": true
+        },
+        "Bing_Images": {
+            "enabled": true
+        },
+        "CambridgeCS": {
+            "enabled": true
+        },
+        "CambridgeCT": {
+            "enabled": true
+        },
+        "CambridgeEE": {
+            "enabled": true
+        },
+        "Dreye": {
+            "enabled": true
+        },
+        "Esdict": {
+            "enabled": true
+        },
+        "Eudict": {
+            "enabled": true
+        },
+        "Frdic": {
+            "enabled": true
+        },
+        "ICIBA": {
+            "enabled": true
+        },
+        "Ldoce6": {
+            "enabled": true
+        },
+        "Longman": {
+            "enabled": true
+        },
+        "Ludwig": {
+            "enabled": true
+        },
+        "MiniDict": {
+            "enabled": true
+        },
+        "Oxford": {
+            "enabled": true
+        },
+        "OxfordLearning": {
+            "enabled": true
+        },
+        "RemoteMdx": {
+            "enabled": true
+        },
+        "TxtTest": {
+            "enabled": true
+        },
+        "Vocabulary": {
+            "enabled": true
+        },
+        "Yahoo_Dict": {
+            "enabled": true
+        },
+        "Youdao": {
+            "enabled": true
+        },
+        "Youdaofr": {
+            "enabled": true
+        },
+        "Youdaoko": {
+            "enabled": true
+        }
+    },
+    "dirs": [],
+    "export_media": false,
+    "force_update": false,
+    "ignore_accents": false,
+    "ignore_mdx_wordcase": false,
+    "sky_last": 0,
+    "sound_str": "[sound:{0}]",
+    "thread_number": 16,
+    "use_filename": true,
+    "version": "v2.0.0b"
+}

@@ -1,0 +1,1 @@
+window._ADDON_CONFIG_CALLBACK_33b5ab527c444da792d44bf890a40f28({"debug": false, "showAtBottom": false, "runOnMobile": false, "messageFormat": "Elapsed %(elapsedTime),  Remaining %(remainingTime), ETA %(ETA)", "barCSS": ""})

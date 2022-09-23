@@ -1,0 +1,15 @@
+{
+    "name": "Colorful Tags",
+    "package": "594329229",
+    "ankiweb_id": "594329229",
+    "author": "Glutanimate",
+    "version": "v3.0.0",
+    "homepage": "https://github.com/glutanimate/colorful-tags",
+    "conflicts": [
+        "colorful_tags",
+        "1835859645",
+        "829533913",
+        "bettertags"
+    ],
+    "mod": 1663253805
+}

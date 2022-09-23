@@ -1,0 +1,4 @@
+*.anki2-shm
+*.pyc
+crash.log
+sky/media.trash/

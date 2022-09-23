@@ -1,0 +1,1 @@
+{"name": "Auto Markdown - fix version", "mod": 1624104892, "min_point_version": 44, "max_point_version": 44, "branch_index": 0, "config": {"auto": {"enabled": false, "uiEditFieldCheckbox": true}, "code": {"colorScheme": "monokai", "lineNums": true}, "manual": {"shortcut": "Ctrl+M", "uiToggleFieldMarkdownButton": true}}}
